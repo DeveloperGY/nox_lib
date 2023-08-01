@@ -1,0 +1,2 @@
+[workspace]
+members = ["nox_lib", "testing"]
